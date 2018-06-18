@@ -4,7 +4,7 @@
 ### *Będę programować przez przynajmniej godzinę dziennie przez następne 100 dni.*
 
 #### Data Rozpoczęcia
-1 Stycznia 2018 [Wpisz Datę Tutaj]
+18 czerwca 2018 [Wpisz Datę Tutaj]
 
 ## Dodatkowy Regulamin
 1. Będę tweetować mój progres każdego dnia używając hasztagu #100DaysOfCode
