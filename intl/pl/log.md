@@ -28,3 +28,13 @@
 **Linki**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+-----------------------------------------------------------------------------------------------------------------
+### dzień 1: 18 czerwca, Poniedziałek
+
+**Przemyślenia**: dzisiaj zaczynam.
+
+**Dzisiejszy Progres** : dziesięć zadań na FreeCiodeCamp.org 
+
+**Linki**
+1.[Visual Design] (https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
