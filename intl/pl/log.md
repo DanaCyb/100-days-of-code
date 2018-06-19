@@ -37,12 +37,16 @@
 **Dzisiejszy Progres** : dziesięć zadań na FreeCiodeCamp.org 
 
 **Linki**
+
 1.[Visual Design] (https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
 
 ### dzień 2: 19 czerwca, Wtorek
 
 **Przemyślenia**: Poznałam dziś metody pozycjonowania , z-index, position:absolute i position: relative.
+
 **Dzisiejszy progres**: sześć zadań z CSS na freecodecamp, trochę JS na Sololearn.
+
 **Linki**
+
 1.https://www.freecodecamp.org/
 2.https://www.sololearn.com/Profile/9518720/JavaScript
