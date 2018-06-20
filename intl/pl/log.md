@@ -49,9 +49,10 @@
 **Linki**
 
 1.https://www.freecodecamp.org/
+
 2.https://www.sololearn.com/Profile/9518720/JavaScript
 
-### dzień 3 ###
+### dzień 3: 20 czerwca, Środa ###
 
 **Przemyślenia**: Duzo nie zrobiłam, ale jestem trochę do przodu z stroną, którą koduję (#webdevchallenge-week1).
 
