@@ -50,3 +50,15 @@
 
 1.https://www.freecodecamp.org/
 2.https://www.sololearn.com/Profile/9518720/JavaScript
+
+### dzień 3 ###
+
+**Przemyślenia**: Duzo nie zrobiłam, ale jestem trochę do przodu z stroną, którą koduję (#webdevchallenge-week1).
+
+**Dzisiejszy progres**: pięć zadań na freecodecamp oraz trochę JS na SoloLearn. Dodatkowo Ogarnięcie szablonu pod stronę i przyswojenie/ przetestowanie funkcji, których będę potrzebować.
+
+**Linki**
+
+1. https://www.freecodecamp.org/
+
+2. https://www.sololearn.com/Profile/9518720/JavaScript
