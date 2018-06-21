@@ -63,3 +63,15 @@
 1. https://www.freecodecamp.org/
 
 2. https://www.sololearn.com/Profile/9518720/JavaScript
+
+### dzień 4: 21 czerwca, Czwartek ###
+
+**Przemyślenia**: Próbuję ponownie zbudować stronę z wyzwania od podstaw/ jeszcze raz. Używam Bootstrapa - znalazłam nowy kurs na StrefaKursów. Ciągle myślę, że za mało umię, aby temu podołać...
+
+**Dzisiejszy progress**: Instalacja Bootstrap 4.1.1. Wprowadzenie "szablonu" "szkicu" kodu do html. Schemat taki sobie wyszedł, ale jestem o mały krok do przodu. Robiłam dziś z JS parę zagadnień z Alert, Prompt,Confirm.
+
+**Linki**:
+
+1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+
+2. [StrefaKursów- Bootstrap 4] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
