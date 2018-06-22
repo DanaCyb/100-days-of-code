@@ -75,3 +75,17 @@
 1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
 
 2. [StrefaKursów- Bootstrap 4] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
+
+
+### Dzień 5,22 czerwca,piątek ###
+
+**Przemyślenia**:
+Za mało umiem,za mało wiem. Muszę przyswoić  raz a poważnie Bootstrap4.  Kurs kupiony z StrefyKursów.
+
+**Progres**: 
+Malutko,ale do przodu. Obiekty  w JS.
+
+**Linki**:
+
+1. [SoloLearn]
+
