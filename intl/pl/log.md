@@ -82,10 +82,25 @@
 **Przemyślenia**:
 Za mało umiem,za mało wiem. Muszę przyswoić  raz a poważnie Bootstrap4.  Kurs kupiony z StrefyKursów.
 
-**Progres**: 
+**Dzisiejszy progres**: 
 Malutko,ale do przodu. Obiekty  w JS.
 
 **Linki**:
 
-1. [SoloLearn]
+1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
 
+
+### dzień 6, 23 czerwca, sobota ### R1D6
+
+**Przemyślenia**:
+Lecę jeszcze raz z Bootstrapem4 - tym razem po polsku, abym bardziej wszystko zrozumiała. Nie chcę działać "na czuja".
+Rano trochę pokikała w wyzwaniu #webdevchallenge, ale nie bardzo mi wychodziła. W sumie jest to bardzo prosty projekt, ale zauważyłam, że moje braki są również w podstawowych wiadomościach.... 
+
+**Dzisiejszy progress**: 
+Cztery wykłady z kursu Bootstrap 4 - podstawy na strefie kursów. W SoloLearn zrobiłam unit "Tablice" w JavaScript. Ostylowalam parę elementów w projekcie "jumbo".
+
+**Linki**:
+
+1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+
+2. [Strefa Kursów] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
