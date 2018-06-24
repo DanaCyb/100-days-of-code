@@ -104,3 +104,19 @@ Cztery wykłady z kursu Bootstrap 4 - podstawy na strefie kursów. W SoloLearn z
 1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
 
 2. [Strefa Kursów] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
+
+### dzień 7, 24 czerwca, niedziela ###n R1D7
+
+**Przemyślenia**:
+Coraz ciężej jest mi się skupić. Wybieram kursy, które są bardziej powtórzeniem materiału niż czymś całkiem nowym. Nie mam chęci ruszenia mojej strony z #webdevchallenge
+
+**Dzisiejszy Progress**:
+W Sololearn - JS: kolejne tablice(arrays), math object, data object. 
+
+Bootstrap 4 - 2 lekcje: breakpoint, grid, display.
+
+**Linki**:
+
+1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+
+2. [Strefa Kursów] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
