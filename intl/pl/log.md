@@ -120,3 +120,17 @@ Bootstrap 4 - 2 lekcje: breakpoint, grid, display.
 1. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
 
 2. [Strefa Kursów] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
+
+### dzień 8, 25 czerwca, poniedziałek ###
+
+**Przemyślenia**
+Wróciłam do FCC i animacji w CSS. Odstawiłam na chwilę Bootstrap, bo FCC cały czas wisiało mi nad głową.
+
+**Dzisiejszy progres**
+Dziś poszło mi całkiem fajnie. Zrobiłam 20 zadań w FCC i było o animacji. Poza tym wskoczyło SoloLearn i JavaScript - tym razem zaczęłam DOM.
+
+**Linki**
+
+1. [FREECODECAMP] https://www.freecodecamp.org/
+
+2. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
