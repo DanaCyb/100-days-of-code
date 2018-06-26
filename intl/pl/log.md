@@ -1,34 +1,5 @@
 # 100 Days Of Code - Log
 
-### Dzień 0:  22 Stycznia 2018 (Przykład 1)
-##### (usuń to lub skomentuj)
-
-**Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
-
-**Przemyślenia:** Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
-
-**Linki** [Kalkulator Aplikacja](http://www.example.com)
-
-### Dzień 0: 22 Stycznia 2018 (Przykład 2)
-##### (usuń to lub skomentuj)
-
-**Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
-
-**Przemyślenia**: Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
-
-**Linki**: [Kalkulator Aplikacja](http://www.example.com)
-
-
-### Dzień 1: 22 Stycznia, Poniedziałek 
-
-**Dzisiejszy Progres**: Ukończyłem kilka zadań na FreeCodeCamp.
-
-**Przemyślenia** Dopiero co zaczynam programowanie, uczucie ukończenia czegoś i rozwiązania problemu jest super, zwłaszcza po wielu nieudanych próbach.
-
-**Linki**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
 -----------------------------------------------------------------------------------------------------------------
 ### dzień 1: 18 czerwca, Poniedziałek
 
@@ -134,3 +105,17 @@ Dziś poszło mi całkiem fajnie. Zrobiłam 20 zadań w FCC i było o animacji. 
 1. [FREECODECAMP] https://www.freecodecamp.org/
 
 2. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+
+### dzień 9, 26 czerwca, wtorek ###
+
+**Przemyślenia**:
+Lepiej zrobić choć troszeczkę niż całkowicie nic.
+
+**Dzisiejszy progress**:
+Jedynie dwa zadania z FCC oraz wprowadzenie do kolejnego modułu traktującego o dostępności strony. I nadal w SoloLearn JavaScript i DOM.
+
+**Linki**:
+
+1. [FREECODECAMP] https://www.freecodecamp.org/
+
+2.[SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
