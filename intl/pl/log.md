@@ -118,4 +118,4 @@ Jedynie dwa zadania z FCC oraz wprowadzenie do kolejnego modułu traktującego o
 
 1. [FREECODECAMP] https://www.freecodecamp.org/
 
-2.[SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+2. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
