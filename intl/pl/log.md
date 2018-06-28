@@ -119,3 +119,27 @@ Jedynie dwa zadania z FCC oraz wprowadzenie do kolejnego modułu traktującego o
 1. [FREECODECAMP] https://www.freecodecamp.org/
 
 2.[SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+
+### dzień 10, 27 czerwca, środa ###
+
+**przemyślenia**: kryzys motywacyjny.
+
+**dzisiejszy preogress**: trochę kursu Bootstrap4 i SoloLearn
+
+**linki**
+
+1. [Strefa Kursów] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
+
+2. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
+
+### dzień 11, 28 czerwca, czwartek ###
+
+**przemyślenia**: kryzys motywacyjny ciągle trwa.
+
+**dzisiejszy preogress**: jedena lekcja Bootstrap4 i  kilka zagadnień SoloLearn
+
+**linki**
+
+1. [Strefa Kursów] https://strefakursow.pl/kursy/web_design/kurs_bootstrap_4_-_od_podstaw.html?ref=46614
+
+2. [SoloLearn] https://www.sololearn.com/Profile/9518720/JavaScript
